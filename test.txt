@@ -1,3 +1,6 @@
 # Git_sample
 
 sanket B
+
+hello sanket
+how r u
